@@ -143,7 +143,7 @@ echo $kuning." <{= ".$putih."JAM".$kuning." =}> ".$biru."<======>".$kuning." <{=
 echo $kuning." <{=  ".$putih, date("H"),$kuning." =}> ".$biru."<======>".$kuning." <{=  ".$putih, date("i"),$kuning."   =}> ".$biru."<======>".$kuning." <{=  ".$putih, date("s"),$kuning."   =}> \n"; 
 
   echo $red."# ".$putih."OutPut ".$biru."<=>".$red." [".$pink."".$de."".$red."]\n"; 
-sleep(1);
+
 echo "# ".$putih."OutPut <{=".$kuning." Output =}>".$biru."<=>".$red." [".$pink."".$di."".$red."]\n"; 
-sleep(1);
+
 }
