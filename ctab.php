@@ -140,7 +140,7 @@ while(true){
   
 
 echo $kuning." <{= ".$putih."JAM".$kuning." =}> ".$biru."<======>".$kuning." <{= ".$putih."MENIT".$kuning." =}> ".$biru."<======>".$kuning." <{= ".$putih."DETIK".$kuning." =}> \n"; 
-echo $kuning." <{=  ".$putih, date("H"),$kuning." =}> ".$biru."<======>".$kuning." <{=  ".$putih, date("i"),$kuning."   =}> ".$biru."<======>".$kuning." <{=  ".$putih, date("s"),$kuning."   =}> \n"; 
+echo $kuning." <{=  ".$putih, date("H"),$kuning." =}> ".$gr."<======>".$kuning." <{=  ".$putih, date("i"),$kuning."   =}> ".$biru."<======>".$kuning." <{=  ".$putih, date("s"),$kuning."   =}> \n"; 
 
   echo $red."# ".$putih."OutPut ".$biru."<=>".$red." [".$pink."".$de."".$red."]\n"; 
 
