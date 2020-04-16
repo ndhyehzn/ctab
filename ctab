@@ -44,8 +44,8 @@ echo $kuning." <{=	".$putih, date("D"),$kuning."   =}> ".$biru."<======>".$kunin
 
 
 
-echo "\033[1;32mEmail\033[1;31m :\033[1;0m ";
-$em = trim(fgets(STDIN));
+
+
 function random($length)
 {
     $data = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890';
@@ -118,7 +118,7 @@ echo $cLogo;
 
 
 
-echo "\n\n".$red."Memualai ".$putih."Menuyul.....!\n";
+
 while(true){
   $ch = curl_init();
   curl_setopt($ch, CURLOPT_URL, $urls);
