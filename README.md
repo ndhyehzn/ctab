@@ -1,2 +1,0 @@
-# ctab
-cryptotab
